@@ -1,6 +1,6 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
-  <h1>Vague for App</h1>
+  <h1>Vague for OpenCode</h1>
   <!-- Optional: add a preview screenshot here
   Use user-attachments instead of the assets/ folder to keep the repo minimal.
   Example:
@@ -11,10 +11,10 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `vague.theme`
-3. Select `Vague` from the themes dropdown
+1. Copy `vague.json` to `~/.config/opencode/themes/vague.json` (or `.opencode/themes/vague.json` for a project-only theme)
+2. Open OpenCode
+3. Run `/theme` and pick `vague`, or set `"theme": "vague"` in your OpenCode config
 
 ## Thanks to contributors
 
-- [You, it's you!](https://github.com/<username>)
+- [brandon-julio-t](https://github.com/brandon-julio-t)
