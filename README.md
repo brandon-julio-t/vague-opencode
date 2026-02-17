@@ -7,6 +7,7 @@
   <img src="https://github.com/user-attachments/assets/..." alt="Preview" />
   Note: make sure to adjust image size if applicable
   -->
+  <img width="1624" height="1061" alt="image" src="https://github.com/user-attachments/assets/001ded82-50a0-4aa1-80e2-7d01aaec0c1b" />
 </div>
 
 ## Usage
